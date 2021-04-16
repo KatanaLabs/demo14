@@ -15,5 +15,6 @@
 
     'data': [
         'views/templates.xml',
+        'views/views.xml'
     ],
 }
